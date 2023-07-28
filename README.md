@@ -5,3 +5,4 @@ which is used to find the recomendations
 
 it uses cosine similarity from scikit
  
+run it as: streamlit run app.py
